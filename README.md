@@ -90,7 +90,7 @@ Visual representation of revenue contribution by product category.
 
 ---
 
-## 📁 Files
+## Files
 
 - `sales-performance-dashboard.xlsm` → main dashboard file  
 - `dashboard_overview.png` → dashboard overview  
