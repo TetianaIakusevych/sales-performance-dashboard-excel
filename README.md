@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard (Excel)
+# Sales Performance Dashboard (Excel)
 
 ![KPI](dashboard_kpi.png)
 ![Overview](dashboard_overview.png)
