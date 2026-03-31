@@ -1,21 +1,21 @@
 # 📊 Sales Performance Dashboard (Excel)
 
-![Overview](dashboard_overview.png)
 ![KPI](dashboard_kpi.png)
+![Overview](dashboard_overview.png)
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project presents an interactive Excel dashboard developed as part of a Master's degree in Business Analytics.
 
 The dashboard provides a comprehensive analysis of sales performance and supports business decision-making through data-driven insights.
 
-⚠️ **Note:** The dataset used in this project is synthetic and created for educational purposes.
+**Note:** The dataset used in this project is synthetic and created for educational purposes.
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 - KPI tracking (Revenue, Profit, Margin, Return Rate)
 - YoY Growth analysis
@@ -25,7 +25,7 @@ The dashboard provides a comprehensive analysis of sales performance and support
 
 ---
 
-## 🛠 Tools & Techniques
+## Tools & Techniques
 
 - Microsoft Excel
 - Power Query (data cleaning & transformation)
@@ -36,9 +36,9 @@ The dashboard provides a comprehensive analysis of sales performance and support
 
 ---
 
-## 📈 Dashboard Components
+## Dashboard Components
 
-### 🔹 KPI Panel
+### KPI Panel
 Tracks key business metrics:
 - Total Revenue  
 - Total Profit  
@@ -46,10 +46,10 @@ Tracks key business metrics:
 - Return Rate  
 - YoY Growth  
 
-### 🔹 Revenue and Margin Trend
+### Revenue and Margin Trend
 Shows monthly performance of revenue and margin.
 
-### 🔹 Quadrant Analysis
+### Quadrant Analysis
 Classifies products into:
 - Star  
 - Volume  
@@ -58,15 +58,15 @@ Classifies products into:
 
 Helps identify high-performing and underperforming products.
 
-### 🔹 ABC Analysis
+### ABC Analysis
 Applies Pareto principle to highlight top revenue-generating categories.
 
-### 🔹 Category Distribution
+### Category Distribution
 Visual representation of revenue contribution by product category.
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Revenue is concentrated in Star and Volume products  
 - Pareto effect observed across categories  
@@ -76,7 +76,7 @@ Visual representation of revenue contribution by product category.
 
 ---
 
-## 🚀 Recommendations
+## Recommendations
 
 ### Strategic
 - Focus on expanding high-performing (Star) products  
